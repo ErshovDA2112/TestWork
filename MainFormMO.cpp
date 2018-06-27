@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
 #include <vcl.h>
 #pragma hdrstop
-//Пробую чтото добавлять
+//Пробую чтото добавлять кудато
 #include "MainFormMO.h"
 #include "Main.h"
 #include "windows.h"
