@@ -2,7 +2,7 @@
 #include < unistd.h >
 
 double t=0.1;
-int y=7;
+int y=5;
 double g=6.9;
 
 int main (void)
