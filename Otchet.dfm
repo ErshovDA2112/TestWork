@@ -1,4 +1,5 @@
 object Form12: TForm12
+//Что-то подправил
   Left = 549
   Top = 0
   Caption = 'Form12'

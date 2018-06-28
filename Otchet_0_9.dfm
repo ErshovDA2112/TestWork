@@ -1,4 +1,5 @@
 object Form1: TForm1
+//Что-то подправил
   Left = 0
   Top = 0
   Caption = 'Form1'
